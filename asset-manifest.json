@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/devnoob-flowers/react-countdown-timer.git/static/css/main.55f82ef7.chunk.css",
+    "main.js": "/devnoob-flowers/react-countdown-timer.git/static/js/main.27a52ccc.chunk.js",
+    "main.js.map": "/devnoob-flowers/react-countdown-timer.git/static/js/main.27a52ccc.chunk.js.map",
+    "runtime-main.js": "/devnoob-flowers/react-countdown-timer.git/static/js/runtime-main.83daf9d4.js",
+    "runtime-main.js.map": "/devnoob-flowers/react-countdown-timer.git/static/js/runtime-main.83daf9d4.js.map",
+    "static/js/2.d1e5410c.chunk.js": "/devnoob-flowers/react-countdown-timer.git/static/js/2.d1e5410c.chunk.js",
+    "static/js/2.d1e5410c.chunk.js.map": "/devnoob-flowers/react-countdown-timer.git/static/js/2.d1e5410c.chunk.js.map",
+    "static/js/3.f487ffbc.chunk.js": "/devnoob-flowers/react-countdown-timer.git/static/js/3.f487ffbc.chunk.js",
+    "static/js/3.f487ffbc.chunk.js.map": "/devnoob-flowers/react-countdown-timer.git/static/js/3.f487ffbc.chunk.js.map",
+    "index.html": "/devnoob-flowers/react-countdown-timer.git/index.html",
+    "static/css/main.55f82ef7.chunk.css.map": "/devnoob-flowers/react-countdown-timer.git/static/css/main.55f82ef7.chunk.css.map",
+    "static/js/2.d1e5410c.chunk.js.LICENSE.txt": "/devnoob-flowers/react-countdown-timer.git/static/js/2.d1e5410c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/devnoob-flowers/react-countdown-timer.git/static/media/vasily-koloda-8CqDvPuo_kI-unsplash.3201ff90.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83daf9d4.js",
+    "static/js/2.d1e5410c.chunk.js",
+    "static/css/main.55f82ef7.chunk.css",
+    "static/js/main.27a52ccc.chunk.js"
+  ]
+}
